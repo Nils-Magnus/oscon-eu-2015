@@ -3,7 +3,8 @@ The new project
 
 Introduction: the first part.
 
-I also insert a few blank lines.
+I also insert a few blank lines. I have to remember to remove them again
+at some later point in time.
 
 
 
@@ -18,3 +19,11 @@ Now we add some text. And even some more. I type, and type
 and type even some more text.
 
 Added even some more text to the bottom.
+
+I'd really love to have a few footnotes, too.
+
+[1] First.
+
+[2] Secondo.
+
+[3] Drittens.
