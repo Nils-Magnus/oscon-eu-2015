@@ -1,3 +1,7 @@
 The new project
+===============
 
 This is the readme of my new project.
+
+Now we add some text. And even some more. I type, and type
+and type even some more text.
