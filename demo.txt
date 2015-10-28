@@ -1,7 +1,20 @@
 The new project
 ===============
 
+Introduction: the first part.
+
+I also insert a few blank lines.
+
+
+
+
+
+
+
+
 This is the readme of my new project.
 
 Now we add some text. And even some more. I type, and type
 and type even some more text.
+
+Added even some more text to the bottom.
